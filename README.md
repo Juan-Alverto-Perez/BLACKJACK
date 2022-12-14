@@ -1,2 +1,4 @@
 # BLACKJACK
- Unfinshed
+ Unfinshed blackjac project in C++
+ 
+ 
